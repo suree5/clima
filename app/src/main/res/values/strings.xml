@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="default_location">Fetching Location</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description"></string>
+    <string name="weather_description"></string>
+    <string name="back_button_description"></string>
+    <string name="get_weather"></string>
+    <string name="default_query"></string>
+</resources>
